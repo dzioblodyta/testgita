@@ -1,0 +1,23 @@
+[33mcommit 7a73927a95b577fb664f7daa86154bd79e7c78d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Jacek <jacek.kalasz@prime-force.com>
+Date:   Tue Oct 15 12:38:57 2024 +0200
+
+    Zmiany w wymaganiach
+
+[33mcommit 8f136a31abe40ea80def3d67a7d327b50201d287[m
+Author: Jacek <jacek.kalasz@prime-force.com>
+Date:   Tue Oct 15 12:14:03 2024 +0200
+
+    Dodawanie zmian z sekji nie przygotowane do złożenia
+
+[33mcommit 2c7c13b4148d8f9762d8600e887f46bd79991cfd[m
+Author: Jacek <jacek.kalasz@prime-force.com>
+Date:   Tue Oct 15 12:06:26 2024 +0200
+
+    Zmiana hasła na poprawne
+
+[33mcommit 2f1d20b6f8bfd20901ea4d38a404c9852f5d1acf[m
+Author: Jacek <jacek.kalasz@prime-force.com>
+Date:   Tue Oct 15 11:17:52 2024 +0200
+
+    Dodanie logowania
